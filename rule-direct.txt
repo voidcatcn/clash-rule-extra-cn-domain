@@ -4,3 +4,5 @@ payload:
   - '+.littleskin.cn'
   - '+.edu.cn'
   - '116.211.128.151'
+  - '+.keepwork.com'
+  - '+.paracraft.cn'
