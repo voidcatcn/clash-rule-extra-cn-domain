@@ -7,3 +7,4 @@ payload:
   - '+.keepwork.com'
   - '+.paracraft.cn'
   - '+.hachimi.world'
+  - '+.edu.cn'
